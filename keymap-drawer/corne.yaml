@@ -3,31 +3,31 @@ layers:
   BAS: [ESCAPE, Q, W, E, R, T, Y, U, I, O, P, '$$mdi:backspace-outline$$', LEFT SHIFT, A, S, D, F, G, H, J, K, L, /, '-', '$$mdi:apple-keyboard-control$$', Z, X,
     C, V, B, N, M, ',', ., ;, '''', '$$mdi:apple-keyboard-command$$', LOW, ␣, ⏎, RAI, '$$mdi:apple-keyboard-option$$']
   LOW:
-  - ↹
+  - ESCAPE
   - '1'
   - '2'
   - '3'
-  - '4'
-  - '5'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - End
   - Home
-  - '8'
-  - '9'
-  - '0'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ⌦
-  - BT CLR
+  - LEFT SHIFT
   - '4'
   - '5'
   - '6'
-  - BT 4
-  - BT 5
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ←
   - ↓
   - ↑
   - →
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-control$$
   - '7'
   - '8'
   - '9'
