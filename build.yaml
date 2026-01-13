@@ -1,7 +1,7 @@
 include:
-
+  # CAMBIO AQUÍ: Usar el shield peripheral para la izquierda
   - board: nice_nano_v2
-    shield: corne_left
+    shield: corne_left_peripheral
     artifact-name: corne_left
 
   - board: nice_nano_v2
